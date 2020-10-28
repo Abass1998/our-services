@@ -112,12 +112,14 @@ a {
     margin-top: 3rem;
   }
   .appointment-description {
-    border: 2px solid green;
+    /*border: 2px solid green;*/
     width: 100%;
+   
   }
   .appointment-image {
     /* border: 2px solid yellow; */
     width: 100%;
+     padding:3rem;
   }
   .picture {
     width: 50%;
